@@ -1,2 +1,2 @@
-# sg1-rpg-cc
-WIP Stargate SG-1 Roleplaying Game Character Creator
+# sg1-rpg-rcc
+Stargate SG-1 Roleplaying Game Random Character Creator
